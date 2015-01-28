@@ -1,0 +1,15 @@
+* {
+    font-family: Calibri;
+}
+
+.search {
+    text-align: center;
+    position: relative;
+    top: 20px;
+}
+
+#title {
+    text-align: center;
+}
+
+
